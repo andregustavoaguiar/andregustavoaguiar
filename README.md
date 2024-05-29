@@ -1,9 +1,10 @@
 ## Olá! eu sou a André Aguiar! "👋 
-Atualmente bancário, buscando em médio prazo ser um Analista de Dados e para longo prazo um Ciêntista de Dados! <br>
-Cursando o 2º período de Ciência de Dados pela Estácio, sou entusiasta de todas as tecnologias que envolve dados. Estou explorando as vastas possibilidades que os dados têm a oferecer, buscando descobrir os   insights ocultos e as histórias fascinantes que podem ser reveladas através da análise cuidadosa e da interpretação inteligente dos dados. Estou sempre em busca de novos desafios e oportunidades ‎de colaboração! 🚀
+Como profissional bancário atualmente, estou buscando transitar de carreira para a área de Análise de Dados em médio prazo, com a visão de me tornar um Ciêntista de Dados no longo prazo! 
+Cursando o 2º período do curso de Ciência de Dados na Estácio, estou completamente envolvido com todas as tecnologias relacionadas ao que envolve os dados. Estou explorando as vastas possibilidades oferecidas pelos dados, buscando desvendar as revelações que podem surgir por meio de uma análise meticulosa e uma interpretação perspicaz dos mesmos. Estou sempre em busca de novos desafios e oportunidades ‎de colaboração!🚀
+
 <br>
 
-<div style="display: inline-block">
+<div style="display: inline-block" align="center">
   <a href="https://www.linkedin.com/in/andre-aguiar-3990a517b/" target="_black">
     <img alt="agga-linkedin" align="top" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"><img alt="linkedin escrito" height="30" width="100" src="https://img.shields.io/badge/Linkedin%20-%E2%80%8E%20-%E2%80%8Eblack?style=flat-square&labelColor=white&color=white"></a>
 
@@ -22,7 +23,7 @@ Cursando o 2º período de Ciência de Dados pela Estácio, sou entusiasta de to
 
 <hr>
 
-## Tools and technologies I know:
+### Tools and technologies I know:
 
 <br>
 <div style="display: inline_block" align="center">
