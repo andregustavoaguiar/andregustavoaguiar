@@ -1,6 +1,11 @@
 ## Olá! eu sou a André Aguiar! "👋 
-Como profissional bancário atualmente, estou buscando transitar de carreira para a área de Análise de Dados em médio prazo, com a visão de me tornar um Ciêntista de Dados no longo prazo! 
+
+<img align="right" alt="GIF" height="160px" src="https://github.com/andregustavoaguiar/andregustavoaguiar/blob/main/teste-unscreen.gif" alt="Descrição da Imagem">
+  
+Como profissional bancário atualmente, estou buscando transitar de carreira para a área de Análise de Dados em médio prazo, com a visão de me tornar um Cientista de Dados no longo prazo!
 Cursando o 2º período do curso de Ciência de Dados na Estácio, estou completamente envolvido com todas as tecnologias relacionadas ao que envolve os dados. Estou explorando as vastas possibilidades oferecidas pelos dados, buscando desvendar as revelações que podem surgir por meio de uma análise meticulosa e uma interpretação perspicaz dos mesmos. Estou sempre em busca de novos desafios e oportunidades ‎de colaboração!🚀
+
+
 
 
 <br>
