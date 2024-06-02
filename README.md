@@ -1,6 +1,6 @@
 ## Olá! eu sou a André Aguiar! "👋 
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/andregustavoaguiar/andregustavoaguiar/blob/main/teste-unscreen.gif" alt="Descrição da Imagem">
+<img align="right" alt="GIF" height="160px" src="https://github.com/andregustavoaguiar/andregustavoaguiar/blob/main/pictures%20readme/teste-unscreen.gif" alt="Descrição da Imagem">
   
 <p>Como profissional bancário atualmente, estou buscando transitar de carreira para a área de Análise de Dados a médio prazo, com o objetivo de me tornar um Cientista de Dados a longo prazo! 📈</p>
 <p>Cursando o 2º período do curso de Ciência de Dados na Estácio, estou completamente envolvido com todas as tecnologias relacionadas ao universo dos dados. 🖥️</p>
@@ -29,7 +29,13 @@
 <img alt="agga-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img alt="agga-postgree" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
 <img alt="agga-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-<img alt="agga-pycharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+<img alt="agga-pycharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />‎ ‎ ‎ 
+<img alt="agga-pycharm" height="50" width="60" src="https://github.com/andregustavoaguiar/andregustavoaguiar/blob/main/pictures%20readme/cpa10.webp" />‎‎ ‎ ‎ 
+<img alt="agga-pycharm" height="50" width="60" src="https://github.com/andregustavoaguiar/andregustavoaguiar/blob/main/pictures%20readme/cpa20.jpeg" />
 </div>
 
+### Certificates:
+<a href="https://github.com/andregustavoaguiar/andregustavoaguiar/blob/main/certificados/">
+-  Certificados de Conclusão de Curso 🎓
+</a>
 <hr>
